@@ -3346,4 +3346,26 @@ footer{
   line-height: 60px;
   color: #3F99D6;
   margin-bottom: 15px;
+
+}
+
+
+
+
+/*==============СТАТЬИ====ПОКА ТОЛЬКО ОДНА=====*/
+
+
+/*===ДЛЯ ГЛАВНОЙ===*/
+.blogsec_mainpage_content_list_item{
+  display: none;
+}
+
+.blogsec_mainpage_content_list_item:nth-child(1){
+  display: flex;
+}
+
+
+/*===ДЛЯ СТРАНИЦЫ БЛОГА===*/
+.blogsec_blogpage_content_list > .blogsec_mainpage_content_list_item{
+  display: none;
 }
