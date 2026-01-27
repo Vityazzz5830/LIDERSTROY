@@ -3970,20 +3970,20 @@ padding-bottom: 9px;
 }
 
 .firstsec_mainpage_content_slider_item:nth-child(1) {
-  background: linear-gradient(180deg,rgba(16, 16, 16, 0.4) 0%, rgba(16, 16, 16, 0.2) 100%), linear-gradient(180deg,rgba(56, 136, 190, 0.8) 11%, rgba(0, 0, 0, 0.3) 68%), url("../img/firstsec_mainpage_background.png");
+  background: linear-gradient(180deg,rgba(16, 16, 16, 0.8) 0%, rgba(16, 16, 16, 0.2) 100%), linear-gradient(180deg,rgba(56, 136, 190, 0.8) 11%, rgba(0, 0, 0, 0.3) 68%), url("../img/firstsec_mainpage_background.png");
   background-position: center;
   background-size: cover;
 }
 
 .firstsec_mainpage_content_slider_item:nth-child(2) {
-  background: linear-gradient(180deg,rgba(16, 16, 16, 0.4) 0%, rgba(16, 16, 16, 0.2) 100%), linear-gradient(180deg,rgba(56, 136, 190, 0.8) 11%, rgba(0, 0, 0, 0.3) 68%),
+  background: linear-gradient(180deg,rgba(16, 16, 16, 0.8) 0%, rgba(16, 16, 16, 0.2) 100%), linear-gradient(180deg,rgba(56, 136, 190, 0.8) 11%, rgba(0, 0, 0, 0.3) 68%),
               url("../img/1.png");
   background-position: center;
   background-size: cover;
 }
 
 .firstsec_mainpage_content_slider_item:nth-child(3) {
-  background: linear-gradient(180deg,rgba(16, 16, 16, 0.4) 0%, rgba(16, 16, 16, 0.2) 100%), linear-gradient(180deg,rgba(56, 136, 190, 0.8) 11%, rgba(0, 0, 0, 0.3) 68%),
+  background: linear-gradient(180deg,rgba(16, 16, 16, 0.8) 0%, rgba(16, 16, 16, 0.2) 100%), linear-gradient(180deg,rgba(56, 136, 190, 0.8) 11%, rgba(0, 0, 0, 0.3) 68%),
               url("../img/firstsec_mainpage_background.png");
   background-position: center;
   background-size: cover;
@@ -4673,4 +4673,5 @@ padding-bottom: 9px;
 
 
 }
+
 
