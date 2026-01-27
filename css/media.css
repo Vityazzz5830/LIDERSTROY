@@ -4137,6 +4137,7 @@ padding-bottom: 9px;
 
 .realizedsolutionssec_mainpage_content_buttons_morebtn {
   border-radius: 5px;
+  align-self: flex-start;
 }
 
 .realizedsolutionssec_mainpage_content_slider_buttons {
@@ -4669,6 +4670,7 @@ padding-bottom: 9px;
   .footer_content_links_cards {
     margin-left: 40px;
   }
+
 
 
 
